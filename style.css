@@ -88,3 +88,72 @@
     text-align: center;
     margin-top: 40px;
 }
+.My{
+    text-align: center;
+    margin-top: 90px;
+}
+.main-div{
+    margin: 0px auto;
+    width: 90%;
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-around;
+    gap: 30px;
+}
+.second-div{
+    background-color: rgba(255, 76, 30, 0.05);
+    text-align: left;
+}
+a{
+    color: #0D1321;
+}
+.thrid-div{
+    text-align: left;
+    background-color:#FFFFFF;
+}
+.four-div{
+    text-align: left;
+    background-color: rgba(255, 223, 0, 0.05);
+}
+ 
+
+.i{
+    
+   display: flex;
+   align-items: center;
+}
+.ju{
+    margin-top: 50px;
+    width: 1140px;
+    background-image: url(assets/handshake.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    justify-content: center;
+    
+    
+    
+}
+.font-4{
+    font-size: ;
+    color: #FFFFFF;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 60px;
+}
+.font-5{
+    color:aliceblue;
+    text-align: center;
+    margin-top: 10px;
+}
+.form{
+    width: 548px;
+    height: 57px;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+.submit{
+    width: 120px;
+    height: 57px;
+    margin-top: 80px;
+    margin-left: 40px;
+}
