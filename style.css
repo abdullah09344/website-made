@@ -83,3 +83,8 @@
     justify-content:space-between;
     gap: 90px;
 }
+
+.lucky{
+    text-align: center;
+    margin-top: 40px;
+}
