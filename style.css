@@ -13,7 +13,7 @@
 
 .banner{
     background-image: url(assets/Hero-bg.png);
-    width: 1520px;
+     max-width: 1520px;
     height: 652px;
     
 }
