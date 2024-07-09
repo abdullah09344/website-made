@@ -59,18 +59,27 @@
      justify-content: space-between;
      gap: 50px;
 }
+
 .btn-2{
     width: 172px;
     height: 47px;
     border-color: #0D1321;
     margin-top: 29px;
 }
+
 .web{
-    margin-top: 60px;
+    margin-top: 50px;
     display: flex;
     justify-content:space-around;
     gap: 50px;
 }
 .me{
     margin-top: 25px;
+}
+
+.she{
+    margin-top: 70px;
+    display: flex;
+    justify-content:space-between;
+    gap: 90px;
 }
