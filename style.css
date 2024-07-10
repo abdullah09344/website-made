@@ -105,7 +105,8 @@
     text-align: left;
 }
 a{
-    color: #0D1321;
+    color:#FFFFFF;
+    text-decoration: none;
 }
 .thrid-div{
     text-align: left;
@@ -156,4 +157,16 @@ a{
     height: 57px;
     margin-top: 80px;
     margin-left: 40px;
+}
+footer{
+    height: 200px;
+    margin-top: 30px;
+    width: 90%;
+    margin: 0 auto;
+}
+.mainf{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+
 }
