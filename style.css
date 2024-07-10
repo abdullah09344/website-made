@@ -90,8 +90,13 @@
 }
 .My{
     text-align: center;
-    margin-top: 90px;
+    margin-top: 70px;
     color: #0D1321;
+}
+
+.para{
+    font-style: normal;
+    font-size: small;
 }
 .main-div{
     margin: 0px auto;
@@ -167,7 +172,7 @@ a{
 }
 footer{
     height: 200px;
-    margin-top: 30px;
+    margin-top: 50px;
     width: 90%;
     margin: 0 auto;
 }
